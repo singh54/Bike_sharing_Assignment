@@ -23,7 +23,6 @@ events in the city could be detected via monitoring these data.
 ## General Information
 - Predication of bike rental count hourly or daily based on the environmental and seasonal settings.
 - Event and Anomaly Detection.
-- 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
